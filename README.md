@@ -10,7 +10,21 @@ This repo is dedicated to backing up and sharing my progress with shell script (
 
 
 
-## To Do List
+## To Implement List
+### obbcheck.sh
+- Implement proper ADB support for quest file sifting.
+- Add a selection list of "verifyable" packages.
+- Check obbs from server. (optional setting)
+- Download and fix obbs automatically if they are not found.
+
+### copier.sh **FINISHED**
+- ~~Proper GUI for directory selection.~~
+- ~~Having it not delete my downloads folder when I run it.~~
+- ~~Cleaning up outputs to look pretty.~~
+
+
+
+## To Learn List
 
 - Learn args
 - Learn special characters
