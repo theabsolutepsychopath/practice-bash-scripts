@@ -4,7 +4,7 @@
 [![compatiability layer](https://img.shields.io/badge/compatiability_layer-WSL-informational)](https://learn.microsoft.com/en-us/windows/wsl/install)
 [![ubuntuvers](https://img.shields.io/badge/ubuntu_version-22.04.1-informational)](https://ubuntu.com/desktop)
 
-![lastcommit](https://img.shields.io/github/last-commit/wasphead/practice-bash-scripts)
+![lastcommit](https://img.shields.io/github/last-commit/completepsychopath/practice-bash-scripts)
 
 This repo is dedicated to backing up and sharing my progress with shell script (bash).
 
