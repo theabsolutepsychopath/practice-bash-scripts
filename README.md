@@ -16,6 +16,7 @@ This repo is dedicated to backing up and sharing my progress with shell script (
 - Add a selection list of "verifyable" packages.
 - Check obbs from server. (optional setting)
 - Download and fix obbs automatically if they are not found.
+- Implement into QLoader and move to C#.
 
 ### copier.sh **FINISHED**
 - ~~Proper GUI for directory selection.~~
